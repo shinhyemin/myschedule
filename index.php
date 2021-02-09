@@ -64,6 +64,7 @@
           <div class="item subPfBar">
             <div class="pfImg">
               <i class="fa fa-database"></i>
+              <input type="hidden">
             </div>
             <div class="pfContents">
               <h3>Database Project</h3>
